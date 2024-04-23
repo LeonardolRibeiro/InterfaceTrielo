@@ -1,0 +1,13 @@
+;JdbcUrl=jdbc:postgresql://10.0.129.8:5433/pmdc
+;JdbcUrl=jdbc:postgresql://10.0.129.176:5433/pmdc
+JdbcUrl=jdbc:postgresql://localhost:5432/postgres
+
+JdbcClass=org.postgresql.Driver
+JdbcUsuario=mdc4web
+
+;JdbcSenha=dgd51o6c
+JdbcSenha=trielo123
+
+
+
+
